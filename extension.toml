@@ -1,7 +1,7 @@
 id = "Authzed"
 name = "Authzed Spicedb"
 description = "Language support for Authzed Spicedb"
-version = "0.1.0"
+version = "0.0.1"
 schema_version = 1
 repository = "https://github.com/zed-extensions/authzed"
 authors = ["mleonidas"]
