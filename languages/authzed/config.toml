@@ -1,0 +1,5 @@
+name = "SpiceDB"
+grammar = "authzed"
+path_suffixes = ["zed"]
+line_comments = ["//", "#"]
+block_comment = ["/*", "*/"]
