@@ -1,4 +1,4 @@
-id = "Authzed"
+id = "authzed"
 name = "Authzed Spicedb"
 description = "Language support for Authzed Spicedb"
 version = "0.0.1"
