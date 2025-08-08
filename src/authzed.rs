@@ -34,7 +34,6 @@ impl SpiceDBExtension {
             },
         )?;
 
-        //  "spicedb_1.45.1_darwin_arm64.tar.gz",
         let (platform, arch) = zed::current_platform();
 
         let version_stripped = release
