@@ -6,6 +6,10 @@ schema_version = 1
 repository = "https://github.com/zed-extensions/authzed"
 authors = ["mleonidas"]
 
+[language_servers.spicedb]
+name = "SpiceDB Language Server"
+language = "SpiceDB"
+
 [grammars.authzed]
 repository = "https://github.com/mleonidas/tree-sitter-authzed"
 commit = "1dec7e1af96c56924e3322cd85fdce15d0a31d00"

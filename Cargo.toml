@@ -1,0 +1,13 @@
+[package]
+name = "zed_authzed"
+version = "0.1.0"
+publish = false
+edition = "2024"
+
+
+[lib]
+path = "src/authzed.rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+zed_extension_api = "0.1.0"
