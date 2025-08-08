@@ -3,8 +3,12 @@ name = "Authzed Spicedb"
 description = "Language support for Authzed Spicedb"
 version = "0.0.1"
 schema_version = 1
-repository = "https://github.com/zed-extensions/authzed"
+repository = "https://github.com/mleonidas/authzed-zed"
 authors = ["mleonidas"]
+
+[language_servers.spicedb]
+name = "SpiceDB Language Server"
+language = "SpiceDB"
 
 [grammars.authzed]
 repository = "https://github.com/mleonidas/tree-sitter-authzed"
